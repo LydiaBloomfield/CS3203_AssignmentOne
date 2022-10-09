@@ -1,3 +1,7 @@
+function test_print(){
+  console.log("test code")
+}
+
 
 $(function() {
    //GET all users and their info from tweetinfo
